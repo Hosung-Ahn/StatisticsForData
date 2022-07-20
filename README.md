@@ -13,7 +13,6 @@ by Peter Bruce, Andrew Bruce, and [Peter Gedeck](https://www.amazon.com/Peter-Ge
 
 - Publisher: [O'Reilly Media](https://oreil.ly/practicalStats_dataSci_2e); 2 edition (June 9, 2020)
 - ISBN-13: 978-1492072942
-- Buy on [Amazon](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)
 - Errata: http://oreilly.com/catalog/errata.csp?isbn=9781492072942
     </td>
   </tr>
@@ -49,3 +48,6 @@ conda create -n sfds python
 conda activate sfds
 conda env update -n sfds -f environment.yml
 ```
+
+## 참조
+-https://github.com/gedeck/practical-statistics-for-data-scientists

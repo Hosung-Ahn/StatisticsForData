@@ -50,5 +50,5 @@ conda env update -n sfds -f environment.yml
 ```
 
 ## 출처
-practical-statistics-for-data-scientists-master 은 [github-gedect](https://github.com/gedeck/practical-statistics-for-data-scientists)를 복사한 것임   
-기타 코드도 해당 소스 코드, 책을 참조하여 작성함
+practical-statistics-for-data-scientists-master are copied from [github-gedect](https://github.com/gedeck/practical-statistics-for-data-scientists). 
+All source code was written with reference to that book.

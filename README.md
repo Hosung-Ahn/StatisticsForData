@@ -3,7 +3,7 @@
 # Code repository
 <table width='100%'>
  <tr>
-  <td><img src='/images/OReilly-english.jpg' width=300></td>
+  <td><img src='/images/OReilly-korean.jpg' width=300></td>
   <td>
    <b>Practical Statistics for Data Scientists:</b>
 
@@ -18,16 +18,6 @@ by Peter Bruce, Andrew Bruce, and [Peter Gedeck](https://www.amazon.com/Peter-Ge
     </td>
   </tr>
 </table>
-
-
-## Online
-View the notebooks online:
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gedeck/practical-statistics-for-data-scientists/tree/master/)
-
-Excecute the notebooks in Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gedeck/practical-statistics-for-data-scientists/HEAD)
-
- This can take some time if the binder environment needs to be rebuilt.
 
 # Setup R and Python environments
 ## R

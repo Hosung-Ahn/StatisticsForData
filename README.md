@@ -49,5 +49,5 @@ conda activate sfds
 conda env update -n sfds -f environment.yml
 ```
 
-## 참조
--https://github.com/gedeck/practical-statistics-for-data-scientists
+## 출처
+모든 코드와 데이터는 [github-gedect](https://github.com/gedeck/practical-statistics-for-data-scientists)에서 가져옴
